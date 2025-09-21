@@ -1,3 +1,3 @@
 ## hello git
 
-Vou adicionar isto do 'features'
+Vou adicionar isto do ´features´
